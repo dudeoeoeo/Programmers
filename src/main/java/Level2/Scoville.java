@@ -4,7 +4,6 @@ import java.util.PriorityQueue;
 
 public class Scoville {
 
-
     public int solution(int[] scoville, int K) {
         int answer = 0;
         int min = 0;
